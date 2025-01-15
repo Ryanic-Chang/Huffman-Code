@@ -25,7 +25,7 @@ chcp 936
 调整成UTF-8
 chcp 65001
 ## 编译方法
-> cd {path}
+> cd {path}  
 > make
 ## 运行方法
 > huffman
